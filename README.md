@@ -1,4 +1,4 @@
-# Bem-vindo à Documentação do Projeto
+# Bem-vindo à Documentação do Projeto Clea Store
 
 Seja bem-vindo à documentação oficial do projeto! Aqui você encontrará tudo o que precisa para entender, contribuir e usar nosso projeto de forma eficiente.
 
